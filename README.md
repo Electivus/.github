@@ -1,2 +1,3 @@
-# .github
-Apresentação pública dos projetos Electivus
+# Electivus
+
+Apresentação pública em [profile/README.md](profile/README.md).
